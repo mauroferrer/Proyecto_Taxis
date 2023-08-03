@@ -1,5 +1,5 @@
 # Documento de Alcance del Proyecto
-## Información del 
+## Información del Proyecto
 - **Nombre del Proyecto:** NYC Taxis & Carbon Emission
 - **Cliente:** Empresa de Servicios de Transporte de Pasajeros ***ESTP Corp***
 - **Fecha de inicio:** 31/8/2023
